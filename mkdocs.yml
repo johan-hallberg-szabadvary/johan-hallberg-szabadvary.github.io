@@ -1,0 +1,41 @@
+site_name: Johan Hallberg Szabadváry
+site_url: https://johan-hallberg-szabadvary.github.io/
+repo_url: https://github.com/johan-hallberg-szabadvary/johan-hallberg-szabadvary.github.io
+repo_name: GitHub
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: slate
+      accent: teal
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: slate
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - header.autohide
+
+plugins:
+  - search
+  - social
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/egonmedhatten  # Your coding account
+    - icon: fontawesome/solid/envelope
+      link: mailto:johan.szabadvary@math.su.se # (Update if needed)
+
+nav:
+  - Home: index.md
+  - Research: research.md
+  - CV: cv.md
