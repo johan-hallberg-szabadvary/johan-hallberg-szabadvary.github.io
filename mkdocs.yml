@@ -39,3 +39,12 @@ nav:
   - Home: index.md
   - Research: research.md
   - CV: cv.md
+
+markdown_extensions:
+# This allows the { align=left } styling on images
+- attr_list
+
+# This enables the :material-icon: codes
+- pymdownx.emoji:
+    emoji_index: !!python/name:materialx.emoji.twemoji
+    emoji_generator: !!python/name:materialx.emoji.to_svg
