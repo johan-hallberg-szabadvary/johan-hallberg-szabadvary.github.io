@@ -27,16 +27,19 @@ theme:
 plugins:
   - search
   - social
+  - blog:
+      post_url_date_format: yyyy/MM/dd
 
 extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/egonmedhatten  # Your coding account
     - icon: fontawesome/solid/envelope
-      link: mailto:johan.szabadvary@math.su.se # (Update if needed)
+      link: mailto:johan.hallberg.szabadvary@ju.se # (Update if needed)
 
 nav:
   - Home: index.md
+  - News: blog/
   - Research: research.md
   - CV: cv.md
 
