@@ -53,7 +53,6 @@
 
 * **Swedish:** Native
 * **English:** Professional and Technical
-* **Hungarian:** Basic
 
 ## Other Experience
 
