@@ -58,7 +58,7 @@ My research lies at the intersection of **computational mathematics** and **reli
 
 * **beta-kde** (2025)
     A Scikit-learn compatible library for boundary-corrected kernel density estimation.
-    [ [Documentation](https://johan-hallberg-szabadvary.github.io/beta-kde/) | [GitHub](https://github.com/egonmedhatten/beta-kde) ]
+    [ [Documentation](https://egonmedhatten.github.io/beta-kde/) | [GitHub](https://github.com/egonmedhatten/beta-kde) ]
 
 * **online-cp** (2025)
     A comprehensive Python package for Online Conformal Prediction.
