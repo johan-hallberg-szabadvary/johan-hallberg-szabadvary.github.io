@@ -22,7 +22,14 @@
 * **Partners:** Jönköping Energy and Siemens Energy.
 
 **Data Scientist**
-*Algorithma* (2022 – Present)
+* Qamcom (2026 - Present)
+
+* **Location:** Göteborg
+
+* Qamcom is a knowledge-intensive R&D company specializing in signal processing, AI, and systems engineering. They focus on "bridging the gap" between academic research and industrial product realization.
+
+**Data Scientist**
+*Algorithma* (2022 – 2026)
 
 * Algorithma is an AI and Data Science consultancy firm.
     * **Key Skills:** AI, Machine Learning, Python, Consulting.
@@ -57,6 +64,7 @@
 ## Other Experience
 
 **Performing Arts (Actor & Musician)**
-*Various Productions*
-* worked professionally in musical theatre and stage productions prior to academic career.
+
+* Worked professionally in musical theatre and stage productions prior to academic career.
+
 * Continues to perform locally in Western Sweden.
