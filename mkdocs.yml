@@ -2,6 +2,7 @@ site_name: Johan Hallberg Szabadváry
 site_url: https://johan-hallberg-szabadvary.github.io/
 repo_url: https://github.com/johan-hallberg-szabadvary/johan-hallberg-szabadvary.github.io
 repo_name: GitHub
+copyright: Copyright &copy; 2025 Johan Hallberg Szabadváry
 
 theme:
   name: material
@@ -26,16 +27,22 @@ theme:
 
 plugins:
   - search
-  - social
+  # - social  <-- Keep this disabled unless you install cairosvg
   - blog:
       post_url_date_format: yyyy/MM/dd
 
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/egonmedhatten  # Your coding account
+      link: https://github.com/egonmedhatten
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/johan-hallberg-szabadv%C3%A1ry-01a043a4/
+    - icon: simple/googlescholar
+      link: https://scholar.google.com/citations?user=sTikGqkAAAAJ
+    - icon: simple/researchgate
+      link: https://www.researchgate.net/profile/Johan-Hallberg-Szabadvary
     - icon: fontawesome/solid/envelope
-      link: mailto:johan.hallberg.szabadvary@ju.se # (Update if needed)
+      link: mailto:johan.hallberg.szabadvary@ju.se
 
 nav:
   - Home: index.md
@@ -44,10 +51,10 @@ nav:
   - CV: cv.md
 
 markdown_extensions:
-# This allows the { align=left } styling on images
-- attr_list
-
-# This enables the :material-icon: codes
-- pymdownx.emoji:
-    emoji_index: !!python/name:materialx.emoji.twemoji
-    emoji_generator: !!python/name:materialx.emoji.to_svg
+  - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
