@@ -23,11 +23,10 @@ Prior to my career in mathematics, I spent over a decade as a professional actor
 
 ## Recent Highlights
 
+* :material-send: **Paper Submitted:** "A Fast, Closed-Form Bandwidth Selector for the Beta Kernel Density Estimator" (Submitted to *Journal of Computational and Graphical Statistics*, Jan 2026).
 * :material-music-note: **Performance:** Christmas concert in Ljungskile, Dec 20.
 * :material-gavel: **Service:** Appointed as **Publications Chair** for COPA 2026.
 * :material-package-variant: **Software Launch:** Released [beta-kde](https://github.com/egonmedhatten/beta-kde), a new library for boundary-corrected density estimation.
-* :material-check-decagram: **Paper Accepted:** "Beyond conformal predictors: Adaptive Conformal Inference with confidence
-predictors" published in *Pattern Recognition*.
 
 ---
 
