@@ -10,11 +10,14 @@ hide:
 **Industrial PhD Student in Computational Mathematics**
 <br>*Stockholm University* and *Jönköping University*
 
-I am a mathematician and data scientist bridging the gap between rigorous theory and industrial application.
+I am a mathematician and researcher bridging the gap between **rigorous statistical theory** and **safety-critical industrial applications**.
 
-My research focuses on **Conformal Prediction**, **Time-Series Forecasting**, and **Reliable Machine Learning**. I divide my time between academic research at Stockholm University and applying these methods in production at **Jönköping Energi** and **Siemens Energy**.
+My research focuses on **Conformal Prediction**, **Sequential Analysis**, and the **Information Geometry of Blindness**. I am interested in the fundamental limits of safety monitoring: *When can we mathematically guarantee that a black-box model is safe, even in dynamic, non-exchangeable environments?*
 
-Prior to my career in mathematics, I worked professionally in the performing arts as an actor and musician. I remain active in the local music scene on the Swedish West Coast.
+I currently divide my time between academic research at Stockholm University and Jönköping University and applying these frameworks as a Research Engineer at **Qamcom Research & Technology**, specializing in Uncertainty Quantification for safety-critical systems.
+
+**A Non-Traditional Path**
+Prior to my career in mathematics, I spent over a decade as a professional actor and musician. I view mathematical proof and musical performance as similar disciplines—both requiring rigorous preparation and structural clarity. I remain active in the music scene on the Swedish West Coast.
 
 <br clear="all">
 
