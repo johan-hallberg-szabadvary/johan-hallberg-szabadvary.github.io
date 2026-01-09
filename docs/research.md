@@ -2,8 +2,10 @@
 
 My research lies at the intersection of **computational mathematics** and **reliable machine learning**, with a specific focus on **Conformal Prediction**, decision-making under uncertainty, and non-parametric statistics.
 
-## Peer-Reviewed PublicationsConformal Blindness: A Note on A-Cryptic change-points**
-    *J. Hallberg Szabadváry, T. Löfström*
+## Peer-Reviewed Publications
+
+* **Conformal Blindness: A Note on A-Cryptic change-points**
+    *J. Hallberg Szabadváry*
     *arXiv:2601.01147 (2026)*
     [ [DOI](https://doi.org/10.48550/arXiv.2601.01147) ]
 
