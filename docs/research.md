@@ -7,7 +7,8 @@ My research lies at the intersection of **computational mathematics** and **reli
 * **Conformal Blindness: A Note on A-Cryptic change-points**
     *J. Hallberg Szabadváry*
     *arXiv:2601.01147 (2026)*
-    [ [DOI](https://doi.org/10.48550/arXiv.2601.01147) ]
+    [ [DOI](https://doi.org/10.48550/arXiv.2601.01147
+) ]
 
 * **Classification with Reject Option: Distribution-free Error Guarantees via Conformal Prediction**
     *J. Hallberg Szabadváry, T. Löfström, U. Johansson, C. Sönströd, E. Ahlberg, L. Carlsson*
@@ -17,7 +18,7 @@ My research lies at the intersection of **computational mathematics** and **reli
 * **Beyond Conformal Predictors: Adaptive Conformal Inference with Confidence Predictors**
     *J. Hallberg Szabadváry, T. Löfström*
     *Pattern Recognition (2025)*
-    [ [DOI](https://doi.org/10.1016/j.patcog.2024.111999) ]
+    [ [DOI](https://doi.org/10.1016/j.patcog.2025.111999) ]
 
 * **Conformal Predictive Decision Making: A Comparative Study with Bayesian and Point-Predictive Methods**
     *S. Lanngren, M. Toremark, J. Hallberg Szabadváry*
@@ -44,7 +45,7 @@ My research lies at the intersection of **computational mathematics** and **reli
 * **On Qualitative Analysis of a Discrete Time SIR Model**
     *J. Hallberg Szabadváry, Y. Zhou*
     *Chaos, Solitons & Fractals: X (2021)*
-    [ [DOI](https://doi.org/10.1016/j.csfx.2021.100078) ]
+    [ [DOI](https://doi.org/10.1016/j.csfx.2021.100067) ]
 
 ## Book Chapters & Special Contributions
 
