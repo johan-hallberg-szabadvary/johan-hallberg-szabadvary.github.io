@@ -22,7 +22,7 @@
 * **Partners:** Jönköping Energy and Siemens Energy.
 
 **Data Scientist**
-* Qamcom (2026 - Present)
+*Qamcom* (2026 - Present)
 
 * **Location:** Göteborg
 
