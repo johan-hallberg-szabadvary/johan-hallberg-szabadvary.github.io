@@ -4,11 +4,6 @@ My research lies at the intersection of **computational mathematics** and **reli
 
 ## Peer-Reviewed Publications
 
-* **Conformal Blindness: A Note on A-Cryptic change-points**
-    *J. Hallberg Szabadváry*
-    *arXiv:2601.01147 (2026)*
-    [ [DOI](https://doi.org/10.48550/arXiv.2601.01147
-) ]
 
 * **Classification with Reject Option: Distribution-free Error Guarantees via Conformal Prediction**
     *J. Hallberg Szabadváry, T. Löfström, U. Johansson, C. Sönströd, E. Ahlberg, L. Carlsson*
@@ -54,6 +49,21 @@ My research lies at the intersection of **computational mathematics** and **reli
     *Forthcoming (2025/2026)*
 
 ## Preprints & Submitted Work
+
+* **A Fast, Closed-Form Bandwidth Selector for the Beta Kernel Density Estimator**
+    *J. Hallberg Szabadváry*
+    *arXiv:2601.19553  (2026)*
+    [ [DOI](
+    https://doi.org/10.48550/arXiv.2601.19553
+    
+) ]
+
+
+* **Conformal Blindness: A Note on A-Cryptic change-points**
+    *J. Hallberg Szabadváry*
+    *arXiv:2601.01147 (2026)*
+    [ [DOI](https://doi.org/10.48550/arXiv.2601.01147
+) ]
 
 * **Ensured: Explanations for Decreasing the Epistemic Uncertainty in Predictions**
     *H. Löfström, T. Löfström, J. Hallberg Szabadváry*
