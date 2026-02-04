@@ -44,9 +44,10 @@ My research lies at the intersection of **computational mathematics** and **reli
 
 ## Book Chapters & Special Contributions
 
-* **Contribution to the Festschrift for Alexander Gammerman's 80th Birthday**
-    *J. Hallberg Szabadváry*
-    *Forthcoming (2025/2026)*
+* **Application of Confidence and Probabilistic Models to Practical Problems**
+    *L. Carlsson, J. Hallberg Szabadváry, E. Ahlberg, J. Gammerman*
+    *In: The Importance of Being Learnable: Essays Dedicated to Alexander Gammerman (2026)*
+    [ [DOI](https://doi.org/10.1007/978-3-032-15120-9_12) ]
 
 ## Preprints & Submitted Work
 
