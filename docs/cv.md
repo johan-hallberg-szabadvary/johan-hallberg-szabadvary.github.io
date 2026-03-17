@@ -47,7 +47,8 @@
 ## Academic Service & Leadership
 
 * **Publications Chair:** Symposium on Conformal and Probabilistic Prediction with Applications (COPA 2026)
-* **Guest Lecturer:** Royal Holloway, University of London (2025)
+* **Guest Lecturer**, Royal Holloway, University of London (2025 – 2026).
+    <br>*Co-presenter with Lars Carlsson for the MSc module CS5720: Applications of Data Science.*
 
 ## Research Output
 *See [Research](research.md) page for full publication list.*
