@@ -23,10 +23,11 @@ Prior to my career in mathematics, I spent over a decade as a professional actor
 
 ## Recent Highlights
 
-* :material-music-note: **Performance:** Les Misérables in concert, Ödsmåls kyrka, March 22.
-* :material-send: **Paper Submitted:** "A Fast, Closed-Form Bandwidth Selector for the Beta Kernel Density Estimator" (Submitted to *Journal of Computational and Graphical Statistics*, Jan 2026).
-* :material-gavel: **Service:** Appointed as **Publications Chair** for COPA 2026.
-* :material-package-variant: **Software Launch:** Released [beta-kde](https://github.com/egonmedhatten/beta-kde), a new library for boundary-corrected density estimation.
+* :material-trophy-award: **Conference:** Selected to attend the **13th Heidelberg Laureate Forum (HLF)** as a Young Researcher (2026).
+* :material-file-document-check-outline: **Paper Accepted:** "A Fast, Closed-Form Bandwidth Selector for the Beta Kernel Density Estimator" to appear in *Journal of Computational and Graphical Statistics*.
+* :material-book-open-page-variant: **Book Chapter:** Co-authored a chapter in the Alexander Gammerman Festschrift, *The Importance of Being Learnable* (Springer, 2026).
+* :material-package-variant: **Software:** Released [beta-kde](https://github.com/egonmedhatten/beta-kde), a Python library for boundary-corrected density estimation.
+* :material-music-note: **Music:** Recently performed the role of Jean Valjean in *Les Misérables* and the tenor solo in Stainer's *The Crucifixion*.
 
 ---
 
