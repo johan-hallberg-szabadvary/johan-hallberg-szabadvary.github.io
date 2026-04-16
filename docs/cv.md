@@ -53,7 +53,10 @@
 ## Research Output
 *See [Research](research.md) page for full publication list.*
 
-## Awards
+## Honors & Awards
+
+* **Young Researcher**, 13th Heidelberg Laureate Forum (2026). 
+    *One of 200 researchers worldwide selected to engage with Abel, Fields, and Turing laureates.*
 
 * **Stockholm Mathematics Centre Prize for Excellent Master Thesis** (2021/2022)
 
