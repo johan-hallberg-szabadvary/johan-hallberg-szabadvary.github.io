@@ -68,9 +68,11 @@ My research lies at the intersection of **computational mathematics** and **reli
 
 ## Software
 
-* **beta-kde** (2025)
-    A Scikit-learn compatible library for boundary-corrected kernel density estimation.
-    [ [Documentation](https://egonmedhatten.github.io/beta-kde/) | [GitHub](https://github.com/egonmedhatten/beta-kde) ]
+* **Beta KDE Bandwidth Selector ("HS Rule") Implementations** (2025–2026)
+    Implementations of the closed-form bandwidth selector for boundary-corrected kernel density estimation.
+    * **Python (`beta-kde`):** Scikit-learn compatible library. [ [Documentation](https://egonmedhatten.github.io/beta-kde/) | [GitHub](https://github.com/egonmedhatten/beta-kde) ]
+    * **Julia (`BetaKDE.jl`):** Native Julia package. [ [GitHub](https://github.com/egonmedhatten/BetaKDE.jl) ]
+    * **R (`kdensity`):** Integrated as the default beta kernel bandwidth selector ("HS") in the standard CRAN package. [ [CRAN](https://cran.r-project.org/web/packages/kdensity/index.html) | [GitHub](https://github.com/JonasMoss/kdensity) ]
 
 * **online-cp** (2025)
     A comprehensive Python package for Online Conformal Prediction.
