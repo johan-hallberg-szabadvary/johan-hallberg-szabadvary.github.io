@@ -16,8 +16,8 @@ I am pleased to share that the new closed-form "HS" bandwidth selector is now av
 
 The goal of this research was to provide a fast, rule-of-thumb solution for boundary-corrected density estimation without relying on unstable numerical optimization. To ensure it is a true plug-and-play solution, the method has been rolled out in the following ecosystems:
 
-* **Python:** Available via `pip install beta-kde` (fully API-compatible with scikit-learn).
-* **R:** Now integrated as the default bandwidth selector for beta kernels in the standard `kdensity` CRAN package (v1.2.0+).
-* **Julia:** Available via the official package manager using `] add BetaKDE`.
+* **Python:** Available via `pip install beta-kde` (fully API-compatible with scikit-learn). [ [GitHub](https://github.com/egonmedhatten/beta-kde) | [Documentation](https://egonmedhatten.github.io/beta-kde/) ]
+* **R:** Now integrated as the default bandwidth selector for beta kernels in the standard `kdensity` CRAN package (v1.2.0+). [ [CRAN](https://cran.r-project.org/web/packages/kdensity/index.html) | [GitHub](https://github.com/JonasMoss/kdensity) ]
+* **Julia:** Available via the official package manager using `] add BetaKDE`. [ [GitHub](https://github.com/egonmedhatten/BetaKDE.jl) ]
 
 A preprint detailing the derivation of the HS bandwidth rule is available on [arXiv](https://arxiv.org/abs/2601.19553), and the official journal version will be published in JCGS shortly.
