@@ -10,13 +10,27 @@ hide:
 **Industrial PhD Student in Computational Mathematics**
 <br>*Stockholm University* and *Jönköping University*
 
-I am a mathematician and researcher bridging the gap between **rigorous statistical theory** and **safety-critical industrial applications**.
+**Industrial PhD Student in Computational Mathematics**
+<br>*Stockholm University* and *Jönköping University*
 
-My research focuses on **Conformal Prediction**, **Sequential Analysis**, and the **Information Geometry of Blindness**. I am interested in the fundamental limits of safety monitoring: *When can we mathematically guarantee that a black-box model is safe, even in dynamic, non-exchangeable environments?*
+I am a mathematician working at the intersection of non-parametric statistics and reliable machine learning, concurrently serving as a Data Scientist at **Qamcom**. 
 
-I currently divide my time between academic research at Stockholm University and Jönköping University and applying these frameworks as a Research Engineer at **Qamcom Research & Technology**, specializing in Uncertainty Quantification for safety-critical systems.
+My overarching research perspective is pragmatic: **it makes little sense to predict anything unless that prediction informs a decision.** Therefore, my work focuses on generating predictions that are mathematically guaranteed to be reliable, even in dynamic environments, and integrating them into formal decision-theoretic frameworks.
 
-**A Non-Traditional Path**
+My current research is divided into two main tracks, which I ultimately aim to unify:
+
+**1. Theoretical Conformal Prediction in Non-Exchangeable Settings**
+I investigate the fundamental limits of conformal prediction when exchangeability is violated. A major focus of my published work involves characterizing **$A$-cryptic deviations**—distribution shifts that are fundamentally invisible to a fixed conformity measure $A$, leaving the resulting p-values deceptively uniform. For non-cryptic shifts, my ongoing theoretical work draws heavily on the defensive forecasting paradigm from game-theoretic probability. Inspired by Vovk et al.'s protected probabilistic regression and classification, I am developing frameworks to dynamically detect deviations from p-value uniformity online and recalibrate predictions, establishing rigorous theoretical guarantees for inference when standard exchangeability assumptions fail.
+
+**2. Predictive Decision-Making Systems (PDMS)**
+Drawing on imprecise probability and classical decision theory, I develop systems that account for Knightian uncertainty. By utilizing Venn-Abers predictors, we obtain multiple predictive distributions rather than a single point estimate. Applying standard von Neumann-Morgenstern utility theory (or regret minimization) to these sets yields multiple expected utilities (or regrets). Applying subjective decision criteria to these bounds creates an uncertainty-aware PDMS. 
+
+**The Ultimate Goal**
+I aim to combine these tracks to create a **Protected PDMS**—an uncertainty-aware system that is robust to dynamic, non-exchangeable environments. Such a system mathematically "knows what it does not know," guaranteeing cautious behavior—such as abstention or defensive actions—when uncertainty is critically high.
+
+<br>
+
+**Background in the Performing Arts**
 Prior to my career in mathematics, I spent over a decade as a professional actor and musician. I view mathematical proof and musical performance as similar disciplines—both requiring rigorous preparation and structural clarity. I remain active in the music scene on the Swedish West Coast.
 
 <br clear="all">
