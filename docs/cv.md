@@ -56,7 +56,8 @@
 ## Honors & Awards
 
 * **Young Researcher**, 13th Heidelberg Laureate Forum (2026). 
-    *One of 200 researchers worldwide selected to engage with Abel, Fields, and Turing laureates.*
+    * One of 200 researchers worldwide selected to engage with Abel, Fields, and Turing laureates.
+    * Designated as an Abbe Grant holder by the Carl-Zeiss-Stiftung (one of 30 fellows selected globally based on academic credentials and STEM impact).
 
 * **Stockholm Mathematics Centre Prize for Excellent Master Thesis** (2021/2022)
 
