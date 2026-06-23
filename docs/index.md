@@ -36,9 +36,9 @@ Prior to my career in mathematics, I spent over a decade as a professional actor
 <br clear="all">
 
 ## Recent Highlights
-
+* :material-file-document-check-outline: **Preprint:** Betting on Moments: Legendre Jumper Martingales for Online Exchangeability Testing [ [DOI](https://doi.org/10.48550/arXiv.2601.01147) ].
 * :material-trophy-award: **Honor:** Selected to attend the **13th Heidelberg Laureate Forum (HLF)** as a Young Researcher (2026).
-* :material-file-document-check-outline: **Paper Accepted:** "A Fast, Closed-Form Bandwidth Selector for the Beta Kernel Density Estimator" to appear in *Journal of Computational and Graphical Statistics*.
+* :material-file-document-check-outline: **Paper Accepted:** "A Fast, Closed-Form Bandwidth Selector for the Beta Kernel Density Estimator" published in *Journal of Computational and Graphical Statistics* [[DOI](https://doi.org/10.1080/10618600.2026.2670662)].
 * :material-package-variant: **Software Ecosystem:** The Beta KDE "HS" bandwidth selector is now available across Python (`beta-kde`), R (`kdensity` CRAN package), and Julia (`BetaKDE`).
 * :material-book-open-page-variant: **Book Chapter:** Co-authored a chapter in the Alexander Gammerman Festschrift, *The Importance of Being Learnable* (Springer, 2026).
 

@@ -55,11 +55,15 @@ My research lies at the intersection of **computational mathematics** and **reli
 
 ## Preprints & Submitted Work
 
+* **Betting on Moments: Legendre Jumper Martingales for Online Exchangeability Testing**
+    *J. Hallberg Szabadváry*
+    *arXiv:2606.20859 (2026)*
+    [ [DOI](https://doi.org/10.48550/arXiv.2606.20859) ]
+
 * **Conformal Blindness: A Note on A-Cryptic change-points**
     *J. Hallberg Szabadváry*
     *arXiv:2601.01147 (2026)*
-    [ [DOI](https://doi.org/10.48550/arXiv.2601.01147
-) ]
+    [ [DOI](https://doi.org/10.48550/arXiv.2601.01147) ]
 
 * **Ensured: Explanations for Decreasing the Epistemic Uncertainty in Predictions**
     *H. Löfström, T. Löfström, J. Hallberg Szabadváry*
