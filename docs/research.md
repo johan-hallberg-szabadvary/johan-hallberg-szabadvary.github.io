@@ -55,6 +55,11 @@ My research lies at the intersection of **computational mathematics** and **reli
 
 ## Preprints & Submitted Work
 
+* **Information-Geometric Blind Spots of Conformal Test Martingales**
+    *J. Hallberg Szabadváry*
+    * arXiv:2610.23131 (2026)*
+    [ [DOI](https://doi.org/10.48550/arXiv.2610.23131) ]
+
 * **Betting on Moments: Legendre Jumper Martingales for Online Exchangeability Testing**
     *J. Hallberg Szabadváry*
     *arXiv:2606.20859 (2026)*
